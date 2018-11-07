@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: All Around The World 
 ---
+![Culture photo](/images/culture.jpg)
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+##What does this photo represent?
 
-![_config.yml]({{ site.baseurl }}/Thailand/config.png)
-
-Knowing about diferent culture is very important. It helps us to honor other culture. 
+This photo represent different culture all around the world. It is to show us how to honor other culture and to show respect. WE are diverse and came from different parts of the world. 
