@@ -3,7 +3,7 @@ layout: post
 Title: Hairstyles  
 ---
 
-![hairstyles](/hairstyles.jpg)
+![hairstyles](/images/hairstyles.jpg)
 
 ## Different hairstyles for girls
  
