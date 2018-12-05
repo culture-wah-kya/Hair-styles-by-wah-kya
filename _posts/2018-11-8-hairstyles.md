@@ -11,7 +11,7 @@ If you don’t know what hairstyles to do your hairs like. Here are some of the 
 
 ## Learn More
 
-    For buns you can either have long bun or keep it low. This hair styles is very simple and quick, you can comb your hair in a ponytails and wrap it. For french braids, you part your hairs in 3 part and start braiding it, as you braid you’ll add more hairs to the braid. 
+For buns you can either have long bun or keep it low. This hair styles is very simple and quick, you can comb your hair in a ponytails and wrap it. For french braids, you part your hairs in 3 part and start braiding it, as you braid you’ll add more hairs to the braid. 
  
 
 To find out more, click [here](https://www.youtube.com/watch?v=-TXTz5Hmvvc)
