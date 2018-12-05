@@ -3,11 +3,11 @@ layout: post
 Title: Hairstyles  
 ---
 
-![hairstyles](/images/hairstyles.jpeg)
-
 ## Different hairstyles for girls
  
 If you don’t know what hairstyles to do your hairs like. Here are some of the hairstyles you can do your hairs. First, you can put your hairs in a simple bun if you don’t want to be fancy that day. Next, you can braid your hairs. There are many ways to braid your hairs. You can french braid, dragon, high ponytail braid, or simple bun braids. Therefore, you can use a hair curler and curl your hairs or a straightener to straighten your hairs. 
+
+![hairstyles](/images/hairstyles.jpeg)
 
 ## Learn More
 
