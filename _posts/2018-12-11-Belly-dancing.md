@@ -1,8 +1,6 @@
 ---
 layout: post
-Title: Belly Dancing 
---- 
- ![bellydance](/images/.jpg)
+Title: costumes
 
 
 ## Belly dance costume 
