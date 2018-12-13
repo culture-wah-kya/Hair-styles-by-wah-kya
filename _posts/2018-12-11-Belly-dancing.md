@@ -20,4 +20,4 @@ Most people nowaday like to belly dance. For thoes who would like to belly dance
 
 
 
-![bellydance](/images/costume.jpg)
+
