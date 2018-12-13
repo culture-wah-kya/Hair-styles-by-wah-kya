@@ -11,7 +11,7 @@ There is a specic costume for dancing and he. The bra and skirts are made of fab
 
 
 
-## fun facts
+## Fun facts
 
 Belly dancing is a very popular dance in the middle east. The name of it came from the frech danse du ventre. Which mean dance of the stomach. It was performed by both mens and womens in the sultan's palace. 
 
